@@ -1,4 +1,6 @@
 # Lv 1. 변수를 쓰지 않고, 자기소개글 출력 (3줄 이상)
+input(name2 = "이름을 입력하세요: ")
+
 print("안녕하세요.")
 print("저는 파이썬을 배우고 있습니다.")
 print("열심히 공부하겠습니다!")
@@ -21,7 +23,9 @@ print("취미는", hobby, "입니다.")
 name = input("이름을 입력하세요: ")
 age = input("나이를 입력하세요: ")
 hobby = input("취미를 입력하세요: ")
+input(name2= "이름을 입력하세요: ")
 
 print("안녕하세요, 저는", name, "입니다.")
 print("나이는", age, "살이고,")
 print("취미는", hobby, "입니다!")
+print(name2)
