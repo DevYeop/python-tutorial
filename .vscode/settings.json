@@ -1,7 +1,12 @@
 {
-    "workbench.colorCustomizations": {
-        "activityBar.background": "#60032B",
-        "titleBar.activeBackground": "#86043C",
-        "titleBar.activeForeground": "#FFFBFD"
-    }
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#60032B",
+    "titleBar.activeBackground": "#86043C",
+    "titleBar.activeForeground": "#FFFBFD"
+  },
+  "python.languageServer": "Pylance",
+  "python.autoComplete.addBrackets": true,
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.completeFunctionParens": true
 }
