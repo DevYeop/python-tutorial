@@ -1,5 +1,6 @@
 class Calculator:
     def __init__(self):
+        print("생성자 작동~")
         # __init__은 "생성자"
         # 객체가 만들어질 때 자동으로 딱 한 번 실행됨
 
